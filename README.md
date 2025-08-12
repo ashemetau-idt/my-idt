@@ -1,1 +1,1 @@
-# my-idt
+# my-idt --r 
